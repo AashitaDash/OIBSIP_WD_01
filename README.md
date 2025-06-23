@@ -1,4 +1,4 @@
-# OIBSIP_WD_01
+# OIBSIP_WD_02
 
 # Task 2 - Personal Portfolio Website 🌐
 
